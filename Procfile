@@ -1,1 +1,1 @@
-bot: python ./mlb/discord_operate.py
+worker: python ./mlb/discord_operate.py
